@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Pausa</class>
+ <widget class="QDialog" name="Pausa">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>407</width>
+    <height>300</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout_2">
+   <item>
+    <layout class="QVBoxLayout" name="verticalLayout">
+     <item>
+      <widget class="QLabel" name="pausalabel">
+       <property name="text">
+        <string>Juego en Pausa, presiona el boton y luego apreta la tecla P</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="seguirjugando">
+       <property name="text">
+        <string>Seguir Jugando</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

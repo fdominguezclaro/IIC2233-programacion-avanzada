@@ -1,0 +1,25 @@
+Parametro: str,valor: int
+prob_40_creditos,0.1
+prob_50_creditos,0.7
+prob_55_creditos,0.15
+prob_60_creditos,0.05
+prob_visitar_profesor,0.2
+prob_atraso_notas_Mavrakis,0.1
+porcentaje_progreso_tarea_mail,0.2
+fiesta_mes,0.033333
+partido_futbol_mes,0.01428571
+corte_agua,0.04761905
+nivel_inicial_confianza_inferior,2
+nivel_inicial_confianza_superior,12
+oop,2
+herencia,2
+listas,3
+arbol,5
+funcional,7
+metaclases,10
+simulacion,7
+threading,9
+gui,1
+serializacion,6
+networking,6
+webservices,5

@@ -6,14 +6,14 @@ Felipe Domínguez C
 1562188J  
 ___  
 
-###Librerías utilizadas
+## Librerías utilizadas
   
 - Pyqt5 
 - random
 - functools
 - threading
 
-
+## Para correrla hacerla funcionar es necesario tener canciones .wavs en el server.
 
 ## Comentarios de la Tarea 
 
